@@ -1,0 +1,11 @@
+flask
+flask-cors
+uvicorn
+gunicorn
+tensorflow
+keras
+numpy
+pandas
+networkx
+matplotlib
+pickle-mixin
